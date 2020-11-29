@@ -41,3 +41,15 @@ Navigation
         }
     }
 }
+
+
+/*
+========================================
+Footer
+======================================== */
+footer {
+    @apply text-white text-center pb-16 pt-10 px-8 w-full bg-black mt-8;
+    a {
+        @apply underline;
+    }
+}
