@@ -5,6 +5,7 @@ import App from 'next/app'
 import Nav from '../components/nav'
 import Footer from '../components/footer'
 import '../css/tailwind.scss'
+import '../css/custom.scss'
 
 class MyApp extends App {
   render() {
