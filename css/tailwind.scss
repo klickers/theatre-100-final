@@ -8,8 +8,11 @@
 * {
     font-family: "Open Sans", sans-serif;
 }
+body {
+    @apply bg-beige;
+}
 main {
-    @apply py-8 px-12;
+    @apply py-8 px-12 shadow bg-white mx-12;
 }
 h1, h2, h3, h4, h5, h6 {
     font-family: "Texturina", serif;
@@ -53,3 +56,5 @@ footer {
         @apply underline;
     }
 }
+
+
