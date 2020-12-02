@@ -118,8 +118,11 @@ Section Types
 ========================================
 Page Components
 ======================================== */
-.blurb {
-    @apply py-4 px-6 my-2 border-maroon border-2 rounded bg-beige;
+.tooltip {
+    @apply border-b border-dotted pb-1;
+    &:hover {
+        @apply cursor-default;
+    }
 }
 
 

@@ -34,7 +34,7 @@ module.exports = {
       pink: colors.pink,
 
       maroon: '#AB3F47',
-      gray: '#A4ABA6',
+      gray: '#60666F',
       beige: '#F9F5E8',
     },
     spacing: {
