@@ -1,7 +1,8 @@
 import React from 'react'
 import Head from 'next/head'
 
-//import { Fade } from "react-awesome-reveal"
+import 'react-tippy/dist/tippy.css'
+import { Tooltip } from 'react-tippy'
 
 const Play = () => (
     <>
