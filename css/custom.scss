@@ -69,7 +69,6 @@ Section Types
 .hero {
     @apply h-screen w-full;
     .hero-overlay {
-        background: rgba(171, 63, 71, 0.7);
         @apply -my-8 -mx-12 h-screen;
     }
     h1 {

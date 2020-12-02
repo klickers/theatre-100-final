@@ -10,7 +10,7 @@ const Play = () => (
         </Head>
         
         <section className="hero" style={{ backgroundImage: "url('https://cdn.pixabay.com/photo/2016/03/10/17/01/stage-1248769_1280.jpg')" }}>
-            <div className="hero-overlay">
+            <div className="hero-overlay" style={{ background: 'rgba(171, 63, 71, 0.7)' }}>
                 <h1>The Making of a Play</h1>
             </div>
         </section>
